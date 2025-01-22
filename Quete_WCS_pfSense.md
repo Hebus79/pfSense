@@ -1,2 +1,2 @@
 La règle de filtrage ci-dessous permet bien d’empêcher uniquement la machine cliente d'acceder aux réseaux extérieurs
-![pfSense.png](https://github.com/Hebus79/Quete_WCS_pfSense/blob/main/images/Capture_ecran_du_2025-01-22_16-07-01.png)
+![pfSense.png](https://github.com/Hebus79/pfSense/blob/main/images/Capture_ecran_du_2025-01-22_16-07-01.png)
